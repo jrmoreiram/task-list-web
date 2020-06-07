@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListWebAPI", "TaskListWebAPI.csproj", "{B2A30D13-7E68-44EB-A70C-31A89B57F016}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListWebAPI", "task-list-web-api\TaskListWebAPI.csproj", "{B2A30D13-7E68-44EB-A70C-31A89B57F016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
