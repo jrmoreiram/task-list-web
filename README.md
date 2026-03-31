@@ -105,12 +105,12 @@ REACT APP                    ASP.NET CORE API
     │─ PUT /api/TaskList/{id} ──→│
     │  Body: { Updated Data }    │ Atualiza tarefa existente
     │                            │
-    │←─── 204 No Content ───────│
+    │←─── 204 No Content ────────│
     │                            │
     │                            │
     │─ DELETE /api/TaskList/{id}→│
     │                            │ Remove tarefa do DB
-    │←─── 204 No Content ───────│
+    │←─── 204 No Content ────────│
 ```
 
 ---
