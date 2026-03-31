@@ -93,13 +93,13 @@ REACT APP                    ASP.NET CORE API
     │──── GET /api/TaskList ────→│
     │                            │ Consulta todas as tarefas
     │                            │ no InMemory DB
-    │←─── JSON (Array Tasks) ───│
+    │←─── JSON (Array Tasks) ────│
     │                            │
     │                            │
     │─ POST /api/TaskList ──────→│
     │  Body: { Task Data }       │ Valida e salva nova tarefa
     │                            │ no InMemory DB
-    │←─── 201 Created ──────────│
+    │←─── 201 Created ───────────│
     │                            │
     │                            │
     │─ PUT /api/TaskList/{id} ──→│
